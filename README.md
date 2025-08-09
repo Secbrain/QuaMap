@@ -85,15 +85,14 @@ cd QuaMap
 
 # Run a GNN-based circuit classifier
 cd tasks/classification
-python run_gnn_classifier.py --backend ibmq_lima --qubits 3
+python train.py --backend ibmq_lima --qubits 3
 
 # Predict post-transpilation metrics
-cd ../prediction
-python predict_metrics.py --backend ibmq_jakarta
+python metric.py
 
 # Rank candidate layouts for a given circuit
 cd ../ranking
-python rank_layouts.py --circuit ./origin_circuit/qubits_5/qft.qasm
+python train.py --backend ibmq_lima
 ```
 
 ## Benchmark Tasks
