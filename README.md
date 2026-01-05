@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/18154917.svg)](https://doi.org/10.5281/zenodo.18154916)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18154917.svg)](https://doi.org/10.5281/zenodo.18154917)
 
 # QuaMap: A Multi-Backend Benchmark Dataset for Quantum Circuit Mapping and Learning-Based Compiler Evaluation
 
