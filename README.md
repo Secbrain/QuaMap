@@ -71,4 +71,5 @@ python test.py
 
 - [Qiskit](https://www.ibm.com/quantum/qiskit),  - IBM Quantum Computing
 - [IBM Quantum](https://quantum-computing.ibm.com/),  - IBM Quantum
+- [MindSpore Quantum: a user-friendly, high-performance, and AI-compatible quantum computing framework](https://arxiv.org/abs/2406.17248),  - MindSpore Quantum
 - [t|ket⟩: a retargetable compiler for NISQ devices](https://dl.acm.org/doi/abs/10.1145/3397166.3409141), 	Sivarajah S, Dilkes S, et al. - Quantum Science and Technology 2020
